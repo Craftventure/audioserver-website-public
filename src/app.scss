@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "minguarana";
+  src: url("assets/font/minguarana.woff") format('woff');
+}
+
+.md-dialog-title {
+  font-family: "minguarana", sans-serif;
+  color: var(--md-theme-default-primary);
+}
+
+.md-dialog-container {
+  border-radius: 8px !important;
+}
+
+.md-card {
+  border-radius: 8px !important;
+}
+
+.md-dialog .md-dialog-title {
+  margin-bottom: 0;
+}
+
+.md-card-header {
+  padding-bottom: 0 !important;
+}
+
+.md-title {
+  font-size: 26px !important;
+}
+
+.md-card-header {
+  font-family: "minguarana", sans-serif;
+  color: var(--md-theme-default-primary);
+  font-size: 26px !important;
+}

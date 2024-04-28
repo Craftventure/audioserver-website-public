@@ -1,0 +1,4 @@
+<IfModule mod_headers.c>
+    Header unset Cache-Control
+    Header set Cache-Control "max-age=3600, public"
+</IfModule>
